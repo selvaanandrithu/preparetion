@@ -5,7 +5,7 @@ public class Practice {
 		
 		int[] a= {101,234,56,345,36};
 		int v = a[0];
-		
+		System.out.println(v);
 		for(int i=0;i<a.length;i++) {
 			
 	            if (a[i] < v) {
