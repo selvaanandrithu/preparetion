@@ -23,8 +23,8 @@ public class Mourian {
 					System.out.println(a[i]);
 				}
 
-			} catch (Exception e) {
-				System.out.println(e);
+			} catch (Exception ex) {
+				System.out.println(ex);
 			}
 
 		}
